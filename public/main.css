@@ -1,3 +1,11 @@
 #newForm {
 	background-color: lightblue;
 }
+
+.strikethrough {
+	text-decoration: line-through; 
+}
+.delete-button {
+	font-size: 1px;
+	color: red;
+}
